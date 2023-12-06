@@ -1,1 +1,1 @@
-#Special Github repo for Tourism and Culture Research
+Special Github repo for Tourism and Culture Research
